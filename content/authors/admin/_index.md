@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Manolis Chiou
-       (Μανώλης Χίου)
+       Μανώλης Χίου
 
 # Full name (for SEO)
 first_name: Manolis 
@@ -11,7 +11,7 @@ last_name: Chiou
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Fellow Robotics & AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
