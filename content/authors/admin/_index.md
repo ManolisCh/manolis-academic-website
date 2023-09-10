@@ -1,37 +1,38 @@
 ---
-# Display name
-title: Manolis Chiou
-       Μανώλης Χίου
-
-# Full name (for SEO)
-first_name: Manolis 
-last_name: Chiou
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
+title: Manolis Chiou Μανώλης Χίου
 role: Research Fellow Robotics & AI
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Extreme Robotics Lab
-    url: https://extremeroboticslab.org/
-  - name: University of Birmingham 
-    url: https://www.birmingham.ac.uk/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Human-Robot Teaming
   - Human-Robot Interaction
   - Variable Autonomy
   - Disaster Response Robotics
-  - Remote Monitoring, Inspection, and Maintenance 
-
-# Education to show in About widget
+  - Remote Monitoring, Inspection, and Maintenance
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=aCwU14gAAAAJ&hl=en&oi=ao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/manolischiou/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ChiouManolis
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Extreme Robotics Lab
+    url: https://extremeroboticslab.org/
+  - name: University of Birmingham
+    url: https://www.birmingham.ac.uk/
 education:
   courses:
     - course: PhD in Robotics & AI
@@ -43,43 +44,17 @@ education:
     - course: BEng in Automation Engineering
       institution: University of West Attica (former TEIPir)
       year: 2011
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+last_name: Chiou
 highlight_name: true
+first_name: Manolis
+email: ""
 ---
+I am a research fellow in the [Extreme Robotics Lab](https://www.birmingham.ac.uk/research/activity/metallurgy-materials/robotics/index.aspx) and the [National Centre for Nuclear Robotics (NCNR)](https://www.ncnr.org.uk/) at the University of Birmingham, where I lead the human-robot teaming research group. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My work aims to advance human-robot systems by combining AI, human-robot interaction, and human factors, enabling humans and robots to cooperate efficiently using their complementing capabilities to assist each other during task execution. I am particularly interested in variable autonomy robotic systems with a human-in-the-loop deployed in hazardous or remote environments, keeping humans out of harm’s way. 
+
+I received my PhD from the School of Computer Science, University of Birmingham, where I was supervised by [Prof. Rustam Stolkin](https://www.birmingham.ac.uk/schools/metallurgy-materials/people/profile.aspx?ReferenceId=133593&Name=professor-rustam-stolkin), [Prof. Nick Hawes](http://www.robots.ox.ac.uk/~nickh/) and [Prof. Kimron Shapiro](https://www.birmingham.ac.uk/staff/profiles/psychology/shapiro-kim.aspx). I have been actively involved in teaching, supervising students, and public communication and engagement of robotics. Among others, I was delivering “robotics masterclasses” for the [Royal Institution of Great Britain](http://www.rigb.org/), the flagship organisation for science outreach and education in the UK and leading the Birmingham autonomous robotics club, winning several prizes in international robotics competitions.
+
+
 {style="text-align: justify;"}
