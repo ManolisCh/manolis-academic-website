@@ -27,7 +27,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 organizations:
   - name: Extreme Robotics Lab
     url: https://extremeroboticslab.org/
