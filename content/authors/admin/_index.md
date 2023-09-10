@@ -1,14 +1,11 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Manolis Chiou
+       (Μανώλης Χίου)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Manolis 
+last_name: Chiou
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,30 +15,34 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Extreme Robotics Lab
+    url: https://extremeroboticslab.org/
+  - name: University of Birmingham 
+    url: https://www.birmingham.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Robot Teaming
+  - Human-Robot Interaction
+  - Variable Autonomy
+  - Disaster Response Robotics
+  - Remote Monitoring, Inspection, and Maintenance 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Robotics & AI
+      institution: University of Birmingham
+      year: 2017
+    - course: MSc in Computational Intelligence
+      institution: University of Sheffield
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Automation Engineering
+      institution: University of West Attica (former TEIPir)
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
