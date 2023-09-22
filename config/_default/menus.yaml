@@ -9,7 +9,7 @@ main:
     weight: 10
  
   - name: Publications
-    url: '#featured'
+    url: 'https://scholar.google.com/citations?user=aCwU14gAAAAJ&hl=en'
     weight: 20
 
   # Link to a PDF of your resume/CV from the menu.
