@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    org_name: 'Human-Robot Teaming group'
+    description: 'Dr Manolis Chiou academic resume website.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-F5W3F4JCG4'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
