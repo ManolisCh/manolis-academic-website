@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-02-05
 type: landing
 
 sections:
@@ -21,13 +21,13 @@ sections:
       text: |-
         Preferably contact me via email. Twitter and LinkedIn will work as well but I do not check them very often. 
       # Contact (add or remove contact options as necessary)
-      email: m.chiou@bham.ac.uk
-      address:
-        street: University of Birmingham 
-        city: Birmingham
-        postcode: 'B15 2SE'
-        country: United Kingdom
-        country_code: UK
+      email: m.chiou@qmul.ac.uk
+      # address:
+      #   street: University of Birmingham 
+      #   city: Birmingham
+      #   postcode: 'B15 2SE'
+      #   country: United Kingdom
+      #   country_code: UK
        
       # Automatically link email and phone or display as text?
       autolink: true
